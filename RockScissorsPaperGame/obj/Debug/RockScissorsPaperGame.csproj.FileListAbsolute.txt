@@ -1,0 +1,20 @@
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\bin\Debug\RockScissorsPaperGame.exe.config
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\bin\Debug\RockScissorsPaperGame.exe
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\bin\Debug\RockScissorsPaperGame.pdb
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.csprojAssemblyReference.cache
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.text.resources
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.Properties.Resources.resources
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.csproj.GenerateResource.cache
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.csproj.CoreCompileInputs.cache
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.exe
+C:\Projects\RockScissorsPapers Object ver\RockScissorsPaperGame\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.pdb
+C:\Projects\individual Assiment\RockScissorsPaperGame\bin\Debug\RockScissorsPaperGame.exe.config
+C:\Projects\individual Assiment\RockScissorsPaperGame\bin\Debug\RockScissorsPaperGame.exe
+C:\Projects\individual Assiment\RockScissorsPaperGame\bin\Debug\RockScissorsPaperGame.pdb
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.csprojAssemblyReference.cache
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.text.resources
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.Properties.Resources.resources
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.csproj.GenerateResource.cache
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.csproj.CoreCompileInputs.cache
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.exe
+C:\Projects\individual Assiment\RockScissorsPaperGame\obj\Debug\RockScissorsPaperGame.pdb
